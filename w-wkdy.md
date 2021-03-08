@@ -1,5 +1,5 @@
 ---
-permalink: /t.html
+permalink: /w.html
 ---
 
 <meta http-equiv="Refresh"
