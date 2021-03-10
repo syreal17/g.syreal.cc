@@ -1,0 +1,6 @@
+---
+permalink: /md.html
+---
+
+<meta http-equiv="Refresh"
+content="0; url='https://www.markdownguide.org/cheat-sheet/'" />
